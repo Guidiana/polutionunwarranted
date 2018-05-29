@@ -10,11 +10,9 @@ Polución Gratuita: de la industria a la basura
 * Resumen del proyecto
 Según el Ministerio de Agricultura, los hogares españoles tiran a la basura 1.245,9 millones de kg/l de alimentos, es decir, un aproximado de 24 millones de kg/l de alimentos cada semana. El 85,6% de estos alimentos son desperdiciados tal como fueron comprados
 
-* Formato
 
-* Requisitos
 
-** Perfiles
+** https://github.com/medialab-prado/polucion-gratuita 
 
 
 
